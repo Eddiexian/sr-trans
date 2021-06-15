@@ -2,5 +2,5 @@ Flask
 Flask-Cors
 gunicorn
 numpy
-torchvision
-torch
+torchvision+cpu
+torch+cpu
