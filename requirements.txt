@@ -2,5 +2,5 @@ Flask
 Flask-Cors
 gunicorn
 numpy
-torchvision+cpu
-torch+cpu
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
